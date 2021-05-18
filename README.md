@@ -1,3 +1,9 @@
+__NOTICE!__
+
+```
+Please use this repo as study purpose not for submission, never cheating for submission!
+```
+
 # Deploying the Neighborly App with Azure Functions
 
 ## Project Overview
