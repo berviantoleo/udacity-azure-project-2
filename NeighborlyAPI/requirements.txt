@@ -1,2 +1,2 @@
-azure-functions==1.13.2
+azure-functions==1.13.3
 pymongo==4.3.3
