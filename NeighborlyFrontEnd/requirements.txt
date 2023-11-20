@@ -1,5 +1,5 @@
 azure-functions==1.17.0
-certifi==2023.7.22
+certifi==2023.11.17
 chardet==5.2.0
 click==8.1.7
 dominate==2.8.0
