@@ -2,7 +2,7 @@ azure-functions==1.17.0
 certifi==2023.7.22
 chardet==5.2.0
 click==8.1.7
-dominate==2.8.0
+dominate==2.9.0
 feedgen==0.9.0
 Flask==3.0.0
 Flask-Bootstrap==3.3.7.1
