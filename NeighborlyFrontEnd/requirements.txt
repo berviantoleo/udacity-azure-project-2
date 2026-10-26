@@ -1,6 +1,6 @@
 azure-functions==1.24.0
 certifi==2026.10.19
-chardet==7.6.0
+chardet==7.7.0
 click==8.5.0
 dominate==2.9.1
 feedgen==1.0.0
